@@ -32,7 +32,7 @@ Split the image (boy.jpg) into B, G, R components and display the channels
 
 ## Program Developed By:
 - **Name:** RAGALA SAI VIVEK
-- **Register Number:** 212223230163
+- **Register Number:** 212223231163
 
 ### Ex. No. 01
 
